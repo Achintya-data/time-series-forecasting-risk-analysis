@@ -7,6 +7,8 @@ This project analyzes two monthly time series with different statistical behavio
 
 The goal was to compare modeling strategies for non-seasonal and seasonal data, test stationarity, fit appropriate ARIMA-family models, diagnose residual behavior, and produce 12-month forecasts.
 
+> **Start here:** [Final Report PDF](reports/project-report.pdf)
+
 ## Project Overview
 
 The analysis follows a classical time series workflow:
